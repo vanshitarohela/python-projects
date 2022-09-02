@@ -1,12 +1,12 @@
 import random
 
 from HangmanArt import states, logo
+from HangmanWordList import word_list
 
 print(logo)
 
 
 # Choose a word by random module from a list filled with words
-word_list: list = ["mango", "cheese", "life", "potato", "dream", "hang", "goose", "cow", "flower", "suspense", "character", "choice"]
 chosen_word: str = random.choice(word_list)
 
 # to test the code
