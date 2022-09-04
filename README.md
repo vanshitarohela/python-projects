@@ -5,7 +5,7 @@ This repository is inspired by the 100 Days Python Bootcamp by Angela Yu (availa
 There are several mini projects inside this such as :- 
 
 1. Hangman Game
-2. Caesar Cipher
+2. Caesar Cipher (text encryption and decryption)
 
 
 
