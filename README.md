@@ -6,6 +6,7 @@ There are several mini projects inside this such as :-
 
 1. Hangman Game
 2. Caesar Cipher (text encryption and decryption)
+3. Secret Bidder
 
 
 
