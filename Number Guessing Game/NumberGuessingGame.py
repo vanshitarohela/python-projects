@@ -1,10 +1,3 @@
-'''
-Author :- Vanshita Rohela
-Description :- Number Guessing Game
-Date :- 01.11.2022  4:40 PM
-Udemy 100 Days of Python Bootcamp Angela Yu
-'''
-
 from random import randint
 import os
 
