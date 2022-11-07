@@ -8,6 +8,7 @@ There are several mini projects inside this such as :-
 2. Caesar Cipher (text encryption and decryption)
 3. Secret Bidder
 4. BlackJack Game
+5. Number Guessing Game
 
 
 
