@@ -9,6 +9,7 @@ There are several mini projects inside this such as :-
 3. Secret Bidder
 4. BlackJack Game
 5. Number Guessing Game
+6. Higher Lower Game
 
 
 
